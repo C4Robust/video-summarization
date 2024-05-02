@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 # Set up Generative AI model
 #secret_key = os.getenv(
-genai.configure(api_key="AIzaSyB1CZDZJf-wifmwFoBTNZhw9ruZNxlzlN4")
+genai.configure(api_key="Secret key")
 frame_description=""
 thumbnail_description=""
 
